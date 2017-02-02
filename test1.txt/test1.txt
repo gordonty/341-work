@@ -3,8 +3,6 @@ Date: 01/30/17
 
 This is my first text document for MART 340 - Web Development
 
-I added a new line to this file in my text editor!
+I added a new line to this file in my new text editor!
 
-I added another line to this file.
-
-Here is another new line awesome
+Okay just keep trying don't give up
