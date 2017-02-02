@@ -5,4 +5,5 @@ This is my first text document for MART 340 - Web Development
 
 I added a new line to this file in my new text editor!
 
-Okay just keep trying don't give up
+Okay just keep trying don't give up.
+Here is another line as I try to figure this out.
