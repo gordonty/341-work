@@ -1,11 +1,12 @@
  body {
    background-color: rgb(139, 87, 9)
  }
+ <style>
  h2 {
       border-style: solid;
       border-color: black
       background: rgb(139, 87, 9)
     }
-
+</style>
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Exo', sans-serif;
