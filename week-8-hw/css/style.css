@@ -1,11 +1,16 @@
-type text/css
- body {
-   background-color: #c28b2d
- }
- .head-2 {
-      border-style: solid;
-      border-color: black
-      background: #8b5709
-    }
+ body {background-color: #c28b2d;
+      line-height: leading;
+      letter-spacing: kerning}
+
+h2 {font-family: Exo, sans-serif;
+    background-color: #c2730b}
+
+h4 {font-family: Josefin Sans, sans-serif;
+    background-color: #452b03}
+
+h2, h4 {text-align: left;}
+
+
+
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Exo', sans-serif;
