@@ -1,13 +1,11 @@
-Doctype text/css
+type text/css
  body {
    background-color: #c28b2d
  }
- <style>
- h2 {
+ .head-2 {
       border-style: solid;
       border-color: black
       background: #8b5709
     }
-</style>
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Exo', sans-serif;
