@@ -2,7 +2,8 @@
    background-color: #c28b2d;
       line-height: leading;
       letter-spacing: kerning
-      font-size: 19pt;
+      font-size: 23pt;
+      first-letter: 25pt;
     }
 
 .h-2 {
