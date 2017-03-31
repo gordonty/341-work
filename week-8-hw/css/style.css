@@ -7,14 +7,44 @@
 .head-2 {
   font-family: 'Exo', sans-serif;
     background-color: #738105
+    text-align:center;
   }
 
 .head-4 {
   font-family: 'Josefin Sans', sans-serif;
     background-color: #a64406;
-    text-align: left;
+    text-align: right;
   }
 
+p.one {font-size: 23pt;}
+
+p.two {
+  font-size: 22pt;
+}
+
+p.three {
+  font-size: 21pt;
+}
+
+p.four{
+  font-size: 20pt;
+}
+
+p.five {
+  font-size: 19pt;
+}
+
+p.six {
+  font-size: 18pt;
+}
+
+p.seven {
+  font-size: 17pt:
+}
+
+p.eight {
+  font-size: 16pt;
+}
 
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Exo', sans-serif;
