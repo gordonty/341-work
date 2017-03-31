@@ -24,8 +24,7 @@
 p {text-indent: 2em;}
 
 .hover:hover {
-  text-transform: lowercase;
-  font-weight: bold;
+  background-image: url(<img src="imgs/camp.jpg");
 }
 
 
