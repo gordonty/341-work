@@ -1,14 +1,20 @@
- body {background-color: #c28b2d;
+ body {
+   background-color: #c28b2d;
       line-height: leading;
-      letter-spacing: kerning}
+      letter-spacing: kerning
+    }
 
-h2 {font-family: Exo, sans-serif;
-    background-color: #c2730b}
+h2 {
+  font-family: 'Exo', sans-serif;
+    background-color: #c2730b
+  }
 
-h4 {font-family: Josefin Sans, sans-serif;
-    background-color: #452b03}
+.head-4 {
+  font-family: 'Josefin Sans', sans-serif;
+    background-color: #452b03
+  }
 
-h2, h4 {text-align: left;}
+h4 {text-align: left;}
 
 
 
