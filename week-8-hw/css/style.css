@@ -2,49 +2,27 @@
    background-color: #c28b2d;
       line-height: leading;
       letter-spacing: kerning
+      font-size: 17pt;
     }
 
 .head-2 {
   font-family: 'Exo', sans-serif;
     background-color: #738105
     text-align:center;
+    font-size: 22pt;
   }
 
 .head-4 {
   font-family: 'Josefin Sans', sans-serif;
     background-color: #a64406;
     text-align: right;
+    font-size: 20pt;
   }
 
-p.one {font-size: 23pt;}
+.par {font-variant: small-caps;}
 
-p.two {
-  font-size: 22pt;
-}
+p {text-indent: 2em;}
 
-p.three {
-  font-size: 21pt;
-}
-
-p.four{
-  font-size: 20pt;
-}
-
-p.five {
-  font-size: 19pt;
-}
-
-p.six {
-  font-size: 18pt;
-}
-
-p.seven {
-  font-size: 17pt:
-}
-
-p.eight {
-  font-size: 16pt;
-}
 
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Exo', sans-serif;
