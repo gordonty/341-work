@@ -12,20 +12,20 @@
     font-size: 22pt;
   }
 
-.head-4 {
+.head-4 {#294702
   font-family: 'Josefin Sans', sans-serif;
     background-color: #a64406;
     text-align: right;
     font-size: 20pt;
   }
 
-.par::first-letter {font-color: #435303;}
+.par::first-letter {color: #0a6202;}
 
 p {text-indent: 2em;}
 
 .hover:hover {
-  background-image: url("../imgs/camp.jpg");
   font-size: 30pt;
   text-transform: uppercase;
   font-weight: bold;
+  background-image: url("../imgs/camp.jpg");
 }
