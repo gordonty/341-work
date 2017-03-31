@@ -3,8 +3,9 @@
       line-height: leading;
       letter-spacing: kerning
       font-size: 23pt;
-      first-letter: 25pt;
     }
+
+.body::first-letter {font-size: 25}
 
 .h-2 {
   font-family: 'Exo', sans-serif;
