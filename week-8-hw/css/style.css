@@ -25,4 +25,7 @@ p {text-indent: 2em;}
 
 .hover:hover {
   background-image: url("../imgs/camp.jpg");
+  font-size: 30pt;
+  text-transform: uppercase;
+  font-weight: bold;
 }
