@@ -24,9 +24,5 @@
 p {text-indent: 2em;}
 
 .hover:hover {
-  background-image: url("./imgs/camp.jpg");
+  background-image: url("../imgs/camp.jpg");
 }
-
-
-font-family: 'Josefin Sans', sans-serif;
-font-family: 'Exo', sans-serif;
