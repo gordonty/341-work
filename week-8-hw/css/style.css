@@ -24,7 +24,7 @@
 p {text-indent: 2em;}
 
 .hover:hover {
-  background-image: url(<img src="imgs/camp.jpg");
+  background-image: url("imgs/camp.jpg");
 }
 
 
