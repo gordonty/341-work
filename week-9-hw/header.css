@@ -38,10 +38,19 @@ header {
   color: #06f68a
 }
 
+.dropdown:hover, .dropdown-content {
+  display: block;
+}
+
 .dropdown-item {
   display: block;
   text-align: right;
   margin-left: 0;
   padding: 0.5em;
   min-width: 7em
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+  color: #06f94a;
+  background-color: #2f7105
 }
