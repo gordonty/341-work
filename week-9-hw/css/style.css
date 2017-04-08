@@ -8,21 +8,37 @@
   line-height: leading;
 }
 
-.body-1, .body-3{
-  position: right;
-  float: right;
-}
-
-.header-1, .header-2, .header-3, .header-4, .main-header{
+.header-1, .header-2, .header-3, .header-4{
   text-align: center;
   font-family: 'Philosopher', sans-serif;
 }
 
-.body-2, .body-4{
-  position: left;
-  float: left;
-}
-
 .main-header{
   background-color: #c8f4d7;
+  text-align: center;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.inspiring{
+  position: right;
+  float: right;
+  background-color: #a5c608;
+}
+
+.reading{
+  position: left;
+  float: left;
+  background-color: #28c708;
+}
+
+.uplifting{
+  position: right;
+  float: right;
+  background-color: #058855;
+}
+
+.imagination{
+  position: left;
+  float: left;
+  background-color: #0a87fb;
 }
