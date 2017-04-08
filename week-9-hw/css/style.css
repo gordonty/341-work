@@ -26,8 +26,6 @@
 }
 
 .reading{
-  position: left;
-  float: left;
   background-color: #28c708;
 }
 
@@ -38,7 +36,5 @@
 }
 
 .imagination{
-  position: left;
-  float: left;
   background-color: #0a87fb;
 }
