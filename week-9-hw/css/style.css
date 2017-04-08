@@ -23,18 +23,22 @@
   float: right;
   background-color: #a5c608;
   position: right;
+  padding: 2em;
 }
 
 .reading{
   background-color: #28c708;
+  padding: 2em;
 }
 
 .uplifting{
   float: right;
   background-color: #058855;
   position: right;
+  padding: 2em;
 }
 
 .imagination{
   background-color: #0a87fb;
+  padding: 2em;
 }
