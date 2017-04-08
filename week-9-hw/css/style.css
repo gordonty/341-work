@@ -1,0 +1,19 @@
+.body{
+  background-color: #2e8f07;
+  padding: 2em;
+  margin: auto;
+  font-family: 'Aclonica', sans-serif;
+  font-size: 18pt;
+  letter-spacing: kerning;
+  line-height: leading;
+}
+
+.header-1, body-1{
+  position: right;
+  float: right;
+}
+
+.header-3, body-3{
+  position: right
+  float: right;
+}

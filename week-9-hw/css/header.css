@@ -1,6 +1,6 @@
 header {
   background-color: #062dfa;
-  font-family: font-family: 'Philosopher', sans-serif;
+  font-family: 'Philosopher', sans-serif;
   font-size: 18pt;
   margin-bottom: 0;
   height: 2.15em;
@@ -26,7 +26,7 @@ header {
 .dropdown-content {
   display: none;
   position: absolute;
-  border: 1px
+  border: 1px double #022233
   margin: 0;
   margin-top: 0.5em;
   color: #0abcf5;
@@ -38,10 +38,19 @@ header {
   color: #06f68a
 }
 
+.dropdown:hover, .dropdown-content {
+  display: block;
+}
+
 .dropdown-item {
   display: block;
   text-align: right;
   margin-left: 0;
   padding: 0.5em;
   min-width: 7em
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+  color: #06f94a;
+  background-color: #2f7105
 }
