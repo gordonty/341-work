@@ -8,12 +8,11 @@
   line-height: leading;
 }
 
-.header-1, body-1{
+.body-1, body-3{
   position: right;
   float: right;
 }
 
-.header-3, body-3{
-  position: right
-  float: right;
+.main-header{
+  background-color: #c8f4d7;
 }
