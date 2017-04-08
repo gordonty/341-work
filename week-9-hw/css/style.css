@@ -8,9 +8,19 @@
   line-height: leading;
 }
 
-.body-1, body-3{
+.body-1, .body-3{
   position: right;
   float: right;
+}
+
+.header-1, .header-2, .header-3, .header-4, .main-header{
+  text-align: center;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.body-2, .body-4{
+  position: left;
+  float: left;
 }
 
 .main-header{
