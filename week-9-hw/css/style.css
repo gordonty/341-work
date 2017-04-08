@@ -30,11 +30,11 @@
 }
 
 .uplifting{
+  float: right;
   background-color: #058855;
+  position: right;
 }
 
 .imagination{
-  float: right;
   background-color: #0a87fb;
-  position: right;
 }
