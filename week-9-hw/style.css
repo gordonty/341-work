@@ -1,0 +1,10 @@
+.link {display: inline;}
+
+header {
+  background-color: #f6c90a;
+  font-family: font-family: 'Philosopher', sans-serif;
+  font-size: 18pt;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 0.5em;
+}
