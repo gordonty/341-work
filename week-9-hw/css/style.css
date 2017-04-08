@@ -22,6 +22,7 @@
 .inspiring{
   float: right;
   background-color: #a5c608;
+  position: right;
 }
 
 .reading{
@@ -35,4 +36,5 @@
 .imagination{
   float: right;
   background-color: #0a87fb;
+  position: right;
 }
