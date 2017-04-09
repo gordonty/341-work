@@ -38,13 +38,28 @@
   padding: 2em;
 }
 
-aside.imagination{
+.main-container{
+  margin: auto;
+  margin-top: 0;
+  padding-top: 0;
+  min-width: 600px;
+  max-width: 1280px;
+  background-color: #0a87fb;
+  clear: both;
+}
+
+.main-container aside.imagination{
   float: right;
   margin: 1em;
   margin-top: 2em;
-  background-color: #0a87fb;
+  background-color: #032749;
   padding: 2em;
-  width: 25%; 
+  width: 25%;
+}
+
+aside .header-4{
+  text-align: center;
+  padding: 1em
 }
 
 aside .aside-text{
