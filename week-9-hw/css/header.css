@@ -4,7 +4,6 @@ header .header{
   font-size: 18pt;
   margin-bottom: 0;
   height: 2.15em;
-  overflow: hidden;
 }
 
 ul {
@@ -12,6 +11,7 @@ ul {
   margin: 0 40px;
   min-width: 200px;
   background-color: #f6c90a;
+  overflow: hidden;
   padding: 0.5em 0;
 }
 
