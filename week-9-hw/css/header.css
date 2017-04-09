@@ -1,4 +1,4 @@
-header .menu {
+header {
   background-color: #062dfa;
   font-family: 'Philosopher', sans-serif;
   font-size: 18pt;
@@ -6,7 +6,7 @@ header .menu {
   height: 2.15em;
 }
 
-.ul {
+ul {
   list-style-type: none;
   margin: 0 40px;
   min-width: 200px;
