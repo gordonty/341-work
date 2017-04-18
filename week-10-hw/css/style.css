@@ -74,6 +74,7 @@ li .dropdown {
   letter-spacing: kerning;
   line-height: leading;
   font-size: 18pt;
+  text-align: center;
 }
 
 .one {
