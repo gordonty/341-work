@@ -44,13 +44,19 @@ li .dropdown {
 }
 
 .dropdown-content a {
-  color: #043d59;
+  color: #07c4f6;
   padding: 12px 16px;
   display: block;
 }
 
 .dropdown:hover, .dropdown-content {
   display: block;
+}
+
+.title {
+  text-align: center;
+  padding: 2em;
+  margin: auto;
 }
 
 .body {
@@ -62,6 +68,12 @@ li .dropdown {
   flex: auto;
   width: 250px;
   height: 300px;
+  padding: 2em;
+  margin: auto;
+  font-family: 'Aclonica', sans-serif;
+  letter-spacing: kerning;
+  line-height: leading;
+  font-size: 18pt;
 }
 
 .one {
@@ -112,11 +124,14 @@ li .dropdown {
 @media (min-width: 1224px) {
   .one {
     width: 33.33px;
+    background-color: #363ef6;
   }
   .two {
     width: 33.33px;
+    background-color: #2eb6f1;
   }
   .three {
     width: 33.33px;
+    background-color: #0bc990;
   }
 }
