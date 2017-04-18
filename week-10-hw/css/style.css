@@ -57,7 +57,6 @@ li .dropdown {
 .body {
   display: flex;
   flex-wrap: wrap;
-  color: #b86005
 }
 
 .box {
@@ -79,12 +78,15 @@ li .dropdown {
 
 @media (min-width: 357px) {
   .one {
-    width: 80%;
+    width: 100%;
   }
   .two {
-    width: 60%;
+    width: 100%;
   }
   .three {
-    width: 50%;
+    width: 100%;
+  }
+  .photo {
+    width: 100%;
   }
 }
