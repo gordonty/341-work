@@ -57,11 +57,6 @@ li .dropdown {
   display: flex;
   flex-wrap: wrap;
   font-family: 'Aclonica', sans-serif;
-  font-size: 25pt;
-  padding: 2em;
-  margin: auto;
-  letter-spacing: kerning;
-  line-height: leading;
 }
 
 .box {
