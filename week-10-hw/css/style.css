@@ -1,0 +1,54 @@
+header .header{
+  background-color: #354896;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 18pt;
+  margin-bottom: 0;
+  height: 2.15em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 40px;
+  min-width: 200px;
+  background-color: #ec932c;
+  overflow: hidden;
+  padding: 0.5em 0;
+}
+
+li {float: left;
+}
+
+.li a, .dropbutton{
+  display: block;
+  color: #118ff6;
+  text-decoration: none;
+  margin: 0 40px 0;
+}
+
+li a:hover, .dropdown:hover, .dropbutton{
+  color: #914b0b;
+  background-color: #08307e;
+}
+
+li .dropdown{
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0;
+  color: #cd971d;
+  background-color: #de7f1d;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #043d59;
+  padding: 12px 16px;
+  display: block;
+}
+
+.dropdown:hover, .dropdown-content {
+  display: block;
+}
