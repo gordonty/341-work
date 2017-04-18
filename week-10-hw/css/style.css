@@ -1,5 +1,4 @@
 header .header {
-  background-color: #354896;
   font-family: 'Philosopher', sans-serif;
   font-size: 18pt;
   margin-bottom: 0;
@@ -57,23 +56,30 @@ li .dropdown {
 .body {
   display: flex;
   flex-wrap: wrap;
+  font-family: 'Aclonica', sans-serif;
+  font-size: 25pt;
+  padding: 2em;
+  margin: auto;
+  letter-spacing: kerning;
+  line-height: leading;
 }
 
 .box {
-  width: 100%;
+  flex: auto;
+  width: 250px;
   height: 300px;
 }
 
 .one {
-  background-color: #363ef6
+  background-color: #363ef6;
 }
 
 .two {
-  background-color: #2eb6f1
+  background-color: #2eb6f1;
 }
 
 .three {
-  background-color: #0bc990
+  background-color: #0bc990;
 }
 
 @media (min-width: 357px) {
@@ -88,5 +94,35 @@ li .dropdown {
   }
   .photo {
     width: 100%;
+  }
+}
+
+@media (min-width: 654px) {
+  .photo {
+    width: 100%;
+  }
+  .one {
+    width: 50%;
+    background-color: #f7a506;
+  }
+  .two {
+    width: 50%;
+    background-color: #f78f05;
+  }
+  .three {
+    width: 100%;
+    background-color: #ec5e18;
+  }
+}
+
+@media (min-width: 1224px) {
+  .one {
+    width: 33.33px;
+  }
+  .two {
+    width: 33.33px;
+  }
+  .three {
+    width: 33.33px;
   }
 }
