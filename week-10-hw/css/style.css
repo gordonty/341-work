@@ -54,10 +54,8 @@ li .dropdown {
 }
 
 .title {
-  text-align: center;
-  padding: 2em;
-  margin: auto;
   width: 100%;
+  background-color: #0ff988;
 }
 
 .body {
