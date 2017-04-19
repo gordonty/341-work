@@ -8,7 +8,7 @@ header .header {
 ul {
   list-style-type: none;
   margin: 0 40px;
-  min-width: 200px;
+  width: 100%;
   background-color: #ec932c;
   overflow: hidden;
   padding: 0.5em 0;
