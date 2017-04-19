@@ -50,4 +50,12 @@ Nick Moles
   <h3>Problems</h3>
   <p>I still couldn't get the dropdown menu to work. I also couldn't get some of the smaller style to work with the larger style. The text is right up against the edges of the box which I dodn't like but if I changed the style to fix that the flex box style would change to something I didn't like. I couldn't figure out how to get issues such as these to work together. For the most part however I got the webpage to look pretty close to how I wanted it to (see below picture of sketch plan).</p>
 
-  ![Imge of sketch plan](imgs/sketch.jpg)
+  ![Image of sketch plan](imgs/sketch.jpg)
+
+  <img src="./imgs/sketch.jpg">
+
+  <img src="./imgs/sketch.jpg"/>
+
+  <img src="./imgs/sketch.jpg" />
+
+  <p>Tried to get picture to show several ways. If not visible please see imgs directory</p>
