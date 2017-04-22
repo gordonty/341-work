@@ -1,12 +1,5 @@
-body {
-  margin: 0;
-  color: #450404;
-  font: 400 15px/1.8 "Aclonica", sans-serif;
-}
-
 .img-1, .img-2, .img-3, .img-4 {
   position: relative;
-  opacity: 0.60;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -15,22 +8,22 @@ body {
 
 .img-1 {
   min-height: 100vh;
-  background-image: url("imgs/barn.jpg");
+  background-image: url("imgs/barn.JPG");
 }
 
 .img-2 {
   min-height: 400px;
-  background-image: url("imgs/duck.jpg");
+  background-image: url("imgs/duck.JPG");
 }
 
 .img-3 {
   min-height: 400px;
-  background-image: url("imgs/cow.jpg");
+  background-image: url("imgs/cow.JPG");
 }
 
 .img-4 {
   min-height: 400px;
-  background-image: url("imgs/kitten.jpg");
+  background-image: url("imgs/kitten.JPG");
 }
 
 .hero {
@@ -65,7 +58,7 @@ body {
 .caption span.border {
   padding: 18px;
   color: #263918;
-  background-color: #782929;
+  background-color: #450404;
   font-size: 20px;
   letter-spacing: 5px;
 }
