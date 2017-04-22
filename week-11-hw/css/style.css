@@ -14,22 +14,22 @@ body {
 
 .img-1 {
   min-height: 100vh;
-  background-image: url("css/imgs/barn.JPG");
+  background-image: url("341-work/week-11-hw/css/imgs/barn.JPG");
 }
 
 .img-2 {
   min-height: 400px;
-  background-image: url("css/imgs/duck.JPG");
+  background-image: url("341-work/week-11-hw/css/imgs/duck.JPG");
 }
 
 .img-3 {
   min-height: 400px;
-  background-image: url("css/imgs/cow.JPG");
+  background-image: url("341-work/week-11-hw/css/imgs/cow.JPG");
 }
 
 .img-4 {
   min-height: 400px;
-  background-image: url("css/imgs/kitten.JPG");
+  background-image: url("341-work/week-11-hw/css/imgs/kitten.JPG");
 }
 
 .hero {
