@@ -34,8 +34,8 @@ body {
 
 .hero {
   padding: 50px 80px;
-  color: #036126;
-  background-color: white;
+  color: white;
+  background-color: #036126;
   text-align: center;
   text-align: justify;
 }
@@ -55,16 +55,16 @@ body {
 
 .description {
   padding: 50px 80px;
-  color: #be0404;
-  background-color: #357e03;
+  color: white;
+  background-color: #be0404;
   text-align: center;
   text-align: justify;
 }
 
 .caption span.border {
   padding: 18px;
-  color: #082401;
-  background-color: #782929;
+  color: white;
+  background-color: #082401;
   font-size: 20px;
   letter-spacing: 5px;
 }
