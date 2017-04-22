@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  color: #450404;
+  font: 400 15px/1.8 "Aclonica", sans-serif;
+}
+
 .img-1, .img-2, .img-3, .img-4 {
   position: relative;
   background-repeat: no-repeat;
@@ -57,8 +63,8 @@
 
 .caption span.border {
   padding: 18px;
-  color: #263918;
-  background-color: #450404;
+  color: #082401;
+  background-color: #782929;
   font-size: 20px;
   letter-spacing: 5px;
 }
