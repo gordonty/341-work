@@ -24,3 +24,5 @@ Nick Moles
     <li>I noticed that my text color against the background colors were making it very hard to read the text. I went into my css and changed that. I then went to the webpage to see if the new color made the text easier to read. It did but my images were gone again.</li>
     <li>No images again. I checked the css to make sure I didn't move, delete, or add something someplace it wasn't supposed to be but couldn't find anything. I had another class mate look at my code to see if he could find anything. He suggested that I move my img-# group infomation below the individual img-# information. I tried that but it didn't do anything. I then e-mailed Nick Moles to see if he could help me out. At the time of writing this on Saturday after noon he had not yet replied.</li>
   </ol>
+
+  <p>Images update. Nick Moles got back to me. He stated that the images were working when he tested the webpage. I guess my computer just needs a break.</p>
